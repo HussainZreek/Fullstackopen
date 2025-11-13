@@ -1,0 +1,119 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": false
+    },
+    {
+      "id": "4",
+      "content": "post method",
+      "important": false
+    },
+    {
+      "id": "5",
+      "content": "a new note...",
+      "important": true
+    },
+    {
+      "id": "6",
+      "content": "a new note...",
+      "important": true
+    },
+    {
+      "id": "7",
+      "content": "",
+      "important": true
+    },
+    {
+      "id": "8",
+      "content": "a new note...",
+      "important": false
+    },
+    {
+      "id": "9",
+      "content": "",
+      "important": false
+    },
+    {
+      "id": "10",
+      "content": "a new note...",
+      "important": false
+    },
+    {
+      "id": "11",
+      "content": "a new note...",
+      "important": false
+    },
+    {
+      "id": "12",
+      "content": "a new note...",
+      "important": false
+    },
+    {
+      "id": "13",
+      "content": "",
+      "important": false
+    },
+    {
+      "id": "14",
+      "content": "",
+      "important": false
+    },
+    {
+      "id": "15",
+      "content": "a new note...",
+      "important": false
+    },
+    {
+      "id": "16",
+      "content": "a new note...",
+      "important": true
+    },
+    {
+      "id": "18",
+      "content": "a new note...",
+      "important": true
+    },
+    {
+      "id": "19",
+      "content": "a new note...",
+      "important": false
+    },
+    {
+      "id": "20",
+      "content": "",
+      "important": false
+    },
+    {
+      "id": "21",
+      "content": "",
+      "important": true
+    },
+    {
+      "id": "22",
+      "content": "a ne",
+      "important": true
+    },
+    {
+      "id": "23",
+      "content": "",
+      "important": false
+    },
+    {
+      "id": "24",
+      "content": "a new note...",
+      "important": false
+    }
+  ]
+}
